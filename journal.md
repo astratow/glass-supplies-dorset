@@ -1,16 +1,16 @@
-#Website making journal
+# Website making journal
 
-##19.08.2021
+## 19.08.2021
 
-###What's done?
+### What's done?
 
 Changed background colour for top bar to white. Set up github repository.
 
-###Found issues
+### Found issues
 
 Responsivnes is not perfect. Need to find images.
 
-###Time spent
+### Time spent
 
 50 minutes
 
