@@ -17,6 +17,7 @@ Most of the links updated.
 ### Time spent
 
 Time start 4.25
+Time finished 5.45
 
 ## 19.08.2021
 
