@@ -1,5 +1,23 @@
 # Website making journal
 
+## 20.08.2021
+
+###What's done
+
+Footer details changed.
+
+About section changed.
+
+Top bar changed.
+
+index.html, contact.html. about.html changed.
+
+Most of the links updated.
+
+### Time spent
+
+Time start 4.25
+
 ## 19.08.2021
 
 ### What's done?
