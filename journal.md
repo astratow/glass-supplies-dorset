@@ -1,5 +1,15 @@
 # Website making journal
 
+##21.08.2021
+
+###What's done
+
+footer-adress class added
+
+### Time spent
+
+30 min
+
 ## 20.08.2021
 
 ###What's done

@@ -17,6 +17,7 @@ h6 {
     color: #030f27;
 }
 
+
 a {
     color: #666666;
     transition: .3s;
@@ -2224,6 +2225,12 @@ a:focus {
 
 .footer .copyright p a:hover {
     color: #ffffff;
+}
+
+.footer-adress {
+    margin-left: 1.6em;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 @media (max-width: 768px) {
