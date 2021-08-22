@@ -1,5 +1,17 @@
 # Website making journal
 
+## 22.08.2021
+
+### What's done
+
+File names changed:
+blog.html -> products.html
+single.html -> glass.html
+
+### Time spent
+
+40 minutes
+
 ##21.08.2021
 
 ###What's done
