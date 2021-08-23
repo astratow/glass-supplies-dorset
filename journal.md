@@ -1,5 +1,17 @@
 # Website making journal
 
+## 23.08.2021
+
+### What's done
+
+Changed some pictures.
+
+Changed text in index.html.
+
+### Time spent
+
+30 minutes
+
 ## 22.08.2021
 
 ### What's done
