@@ -4,7 +4,7 @@
 
 ### What's done
 
-Minor changes in index.html. Worked on products, changed layout, pictures, some text. More to be done!
+Minor changes in index.html. Worked on products, changed layout, pictures, some text commented. More to be done!
 
 
 ### Time spent
