@@ -1,5 +1,16 @@
 # Website making journal
 
+## 24.08.2021
+
+### What's done
+
+Minor changes in index.html. Worked on products, changed layout, pictures, some text. More to be done!
+
+
+### Time spent
+
+65 minutes
+
 ## 23.08.2021
 
 ### What's done
