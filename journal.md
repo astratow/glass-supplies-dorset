@@ -1,5 +1,26 @@
 # Website making journal
 
+## 26.08.2021
+
+### What's done
+
+Worked mainly on products.html. Added sections: georgian, aluminium spacer, warm edge spacer, duplex. Found relative pictures. Need picture for georgian.
+
+
+### Time spent
+
+65 minutes
+
+## 25.08.2021
+
+### What's done
+
+Little update to readme.md.
+
+### Time spent
+
+5 minutes
+
 ## 24.08.2021
 
 ### What's done
