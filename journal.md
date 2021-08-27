@@ -1,5 +1,16 @@
 # Website making journal
 
+## 27.08.2021
+
+### What's done
+
+Worked on glass.html. Added all glass types and used products layout. No pictures.
+
+
+### Time spent
+
+40 minutes
+
 ## 26.08.2021
 
 ### What's done
