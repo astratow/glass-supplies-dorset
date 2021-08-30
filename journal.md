@@ -1,5 +1,18 @@
 # Website making journal
 
+## 30.08.2021
+
+
+### What's done
+
+Footer links updated.
+
+
+### Time spent
+
+60 minutes
+
+
 ## 27.08.2021
 
 ### What's done
