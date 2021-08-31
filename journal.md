@@ -1,5 +1,17 @@
 # Website making journal
 
+## 31.08.2021
+
+
+### What's done
+
+Worked on contact form. It was throwing error from own template code. I edited and commented out whole contact.js file and now it works with netlify.
+
+
+### Time spent
+
+30 minutes
+
 ## 30.08.2021
 
 
