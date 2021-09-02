@@ -22,6 +22,8 @@ Worked on index.html. Added products and glass sections there.
 
 30 minutes
 
+## 31.08.2021
+
 ### What's done
 
 Worked on contact form. It was throwing error from own template code. I edited and commented out whole contact.js file and now it works with netlify.
@@ -113,7 +115,7 @@ single.html -> glass.html
 
 ##21.08.2021
 
-###What's done
+### What's done
 
 footer-adress class added
 
@@ -123,7 +125,7 @@ footer-adress class added
 
 ## 20.08.2021
 
-###What's done
+### What's done
 
 Footer details changed.
 
