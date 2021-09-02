@@ -1,7 +1,17 @@
 # Website making journal
 
+## 1.06.2021
+
 ## 31.08.2021
 
+### What's done
+
+Worked on index.html. Added products and glass sections there.
+
+
+### Time spent
+
+30 minutes
 
 ### What's done
 
