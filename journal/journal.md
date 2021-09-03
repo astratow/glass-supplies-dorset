@@ -1,5 +1,16 @@
 # Website making journal
 
+## 3.09.2021
+
+### What's done
+
+Fixed various problems with content.
+
+
+### Time spent
+
+30 minutes
+
 ## 2.09.2021
 
 ### What's done
