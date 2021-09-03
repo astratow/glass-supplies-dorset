@@ -4,7 +4,7 @@
 
 ### What's done
 
-Fixed various problems with content.
+Fixed various problems with content. Added telephone number links.
 
 
 ### Time spent
