@@ -1,5 +1,13 @@
 # Website making journal
 
+## 6.09.2021
+
+### What's done
+
+Added script which puts current year in copyright section.
+
+
+
 ## 3.09.2021
 
 ### What's done
