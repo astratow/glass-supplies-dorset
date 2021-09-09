@@ -2096,7 +2096,7 @@ a:focus {
     transition: .3s;
 }
 
-.footer .footer-link a::before {
+.footer .class="footer-link" a::before {
     position: relative;
     content: "\f105";
     font-family: "Font Awesome 5 Free";
