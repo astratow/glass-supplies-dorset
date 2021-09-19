@@ -1,5 +1,13 @@
 # Website making journal
 
+## 19.09.2021
+
+### What's done
+
+Attempt to change domain in order to link website and domain... First time
+ever...
+
+
 ## 6.09.2021
 
 ### What's done
