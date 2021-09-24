@@ -1,6 +1,6 @@
 # Glass Supplies Dorset
-Second repository made to host website based on template.
-It has been accepted by the client.
+Back in March 2021 I offered to Glass Supplies that I will make their website. Month later they accepted the offer. After lots of experiments and struggle website went live in September 2021. 
 
-[Read more](/journal/journal.md)
+Full story in
+[journal](/journal/journal.md)
 
