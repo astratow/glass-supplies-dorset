@@ -1,12 +1,13 @@
 # Website making journal
 
+## 20.09.2021
+
+Contact form wasn't working for a client, fixed it by repeating process of
+adding their email on netlify dashboard.
+
 ## 19.09.2021
 
-### What's done
-
-Attempt to change domain in order to link website and domain... First time
-ever...
-
+Website is now live!
 
 ## 6.09.2021
 
