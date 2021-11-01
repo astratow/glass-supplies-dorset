@@ -1,5 +1,10 @@
 # Website making journal
 
+## 1.11.2021
+
+Since yesterday I try to index site on google. It is interesting yet a bit odd
+process. I learnt about sitemaps and how to generate such a file. Interesting!
+
 ## 20.09.2021
 
 Contact form wasn't working for a client, fixed it by repeating process of
