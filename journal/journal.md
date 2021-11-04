@@ -1,5 +1,9 @@
 # Website making journal
 
+## 4.11.2021
+
+Images alt section updated in products.html
+
 ## 1.11.2021
 
 Since yesterday I try to index site on google. It is interesting yet a bit odd
