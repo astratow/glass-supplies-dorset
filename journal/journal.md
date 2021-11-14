@@ -1,5 +1,9 @@
 # Website making journal
 
+## 14.11.2021
+
+<h1> tags changed to <h2>. Styling as well.
+
 ## 4.11.2021
 
 Images alt section updated in products.html
