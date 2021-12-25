@@ -2,7 +2,7 @@
 
 ## 14.11.2021
 
-<h1> tags changed to <h2>. Styling as well.
+h1 tags changed to h2. Styling as well.
 
 ## 4.11.2021
 
